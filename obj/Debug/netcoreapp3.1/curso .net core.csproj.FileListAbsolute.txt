@@ -1,0 +1,37 @@
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.csprojAssemblyReference.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.AssemblyInfoInputs.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.AssemblyInfo.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.csproj.CoreCompileInputs.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.MvcApplicationPartsAssemblyInfo.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.RazorAssemblyInfo.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.RazorAssemblyInfo.cs
+E:\curso .net core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\curso .net core\bin\Debug\netcoreapp3.1\appsettings.json
+E:\curso .net core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.exe
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.deps.json
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.runtimeconfig.json
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.runtimeconfig.dev.json
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.dll
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.pdb
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.Views.dll
+E:\curso .net core\bin\Debug\netcoreapp3.1\curso .net core.Views.pdb
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.TagHelpers.input.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.TagHelpers.output.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.RazorCoreGenerate.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.RazorTargetAssemblyInfo.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.RazorTargetAssemblyInfo.cs
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.Views.pdb
+E:\curso .net core\obj\Debug\netcoreapp3.1\staticwebassets\curso .net core.StaticWebAssets.Manifest.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\staticwebassets\curso .net core.StaticWebAssets.xml
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.dll
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.pdb
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.genruntimeconfig.cache
+E:\curso .net core\obj\Debug\netcoreapp3.1\curso .net core.csproj.CopyComplete
